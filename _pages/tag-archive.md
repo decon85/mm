@@ -1,6 +1,6 @@
 ---
-title: "Posts by Tag"
-permalink: /tags/
+title: "Resources"
+permalink: /Resources/
 layout: tags
-author_profile: true
+author_profile: false
 ---
